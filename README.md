@@ -9,7 +9,8 @@ _All the data is downloaded from [Kaggle FER-13](https://www.kaggle.com/datasets
 ## ***Technologies***
 - _Keras: A high-level, deep learning API for implementing neural networks._
 - _Tensorflow: An open-sourced end-to-end platform, a library for multiple machine learning tasks._ 
-- _OpenCV: A library of Python bindings designed to solve computer vision problems._
+- _[OpenCV](https://docs.opencv.org/3.4/index.html): A library of Python bindings designed to solve computer vision problems._
+- _[Haar Cascade](https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html): An effective object detection method._
 - _CNN: Convolutional neural network, a kind of network architecture for deep learning algorithms and is specifically used for image recognition and tasks that involve the processing of pixel data._ 
 
 ## ***Setup*** 
