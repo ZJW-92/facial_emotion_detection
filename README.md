@@ -22,3 +22,6 @@ _Open Pycharm terminal and run  `pip install -r requirements.txt` and `python xx
 <a href="sample1.gif"><img src="gif/sample1.gif" width="30%" align="center"></a>
 <a href="sample3.gif"><img src="gif/sample3.gif" width="33%" align="center"></a>
 
+<a href="sample4.gif"><img src="gif/sample4.gif" width="33%" align="center"></a>
+<a href="sample5.gif"><img src="gif/sample5.gif" width="30%" align="center"></a>
+<a href="sample6.gif"><img src="gif/sample6.gif" width="33%" align="center"></a>
