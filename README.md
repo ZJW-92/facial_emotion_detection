@@ -12,9 +12,9 @@ _All the data is downloaded from [Kaggle FER-13](https://www.kaggle.com/datasets
 - _OpenCV: A library of Python bindings designed to solve computer vision problems._
 - _CNN: Convolutional neural network, a kind of network architecture for deep learning algorithms and is specifically used for image recognition and tasks that involve the processing of pixel data._ 
 
-## ***Visulization***
+## ***Visualization***
 
-<img src="gif/sample2.gif" width="50%">
-<img src="gif/sample1.gif" width="50%">
-<img src="gif/sample3.gif" width="50%">
+<a href="sample2.gif"><img src="gif/sample2.gif" width="33%" align="center"></a>
+<a href="sample1.gif"><img src="gif/sample1.gif" width="33%" align="center"></a>
+<a href="sample3.gif"><img src="gif/sample3.gif" width="33%" align="center"></a>
 
