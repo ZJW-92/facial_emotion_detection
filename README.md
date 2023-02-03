@@ -14,7 +14,7 @@ _All the data is downloaded from [Kaggle FER-13](https://www.kaggle.com/datasets
 
 ## ***Visulization***
 
-<img src="gif/sample1.gif" width="40%">
-<img src="gif/sample2.gif" width="90%">
-<img src="gif/sample3.gif" width="90%">
+<img src="gif/sample2.gif" width="50%">
+<img src="gif/sample1.gif" width="50%">
+<img src="gif/sample3.gif" width="50%">
 
