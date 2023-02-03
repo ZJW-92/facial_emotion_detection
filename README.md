@@ -1,8 +1,10 @@
 # ***Facial Emotion Detection***
 
+_Facial emotion detection is the task of recognizing a person's emotional state among angry, disgust, fear, happy, neutral, sad and surprise using CNN deep learning technology._
+
 ## ***Data source***
 
-_All the data is downloaded from [Kaggle FER-13](https://www.kaggle.com/datasets/msambare/fer2013?resource=download)_
+_All the data is downloaded from [Kaggle FER-13](https://www.kaggle.com/datasets/msambare/fer2013?resource=download)._
 
 ## ***Technologies***
 - _Keras: A high-level, deep learning API for implementing neural networks._
@@ -12,8 +14,7 @@ _All the data is downloaded from [Kaggle FER-13](https://www.kaggle.com/datasets
 
 ## ***Visulization***
 
-<img src="gif/gif1.gif" width="90%">
-<img src="gif/gif2.gif" width="90%">
-<img src="gif/gif3.gif" width="90%">
-
+<img src="gif/sample1.gif" width="90%">
+<img src="gif/sample2.gif" width="90%">
+<img src="gif/sample3.gif" width="90%">
 
