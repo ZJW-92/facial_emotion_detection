@@ -1,6 +1,6 @@
-# ***Facial Emotion Detection***
+# ***[Facial Emotion Detection](#visualization)***
 
-_Facial emotion detection is the task of recognizing a person's emotional state among angry, disgust, fear, happy, neutral, sad and surprise using CNN deep learning technology._
+_Facial Emotion Detection is the task of recognizing a person's emotional state among angry, disgust, fear, happy, neutral, sad and surprise using CNN deep learning technology._
 
 ## ***Data source***
 
