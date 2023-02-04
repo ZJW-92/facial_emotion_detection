@@ -14,8 +14,15 @@ _All the data is downloaded from [Kaggle FER-13](https://www.kaggle.com/datasets
 - _CNN: Convolutional neural network, a kind of network architecture for deep learning algorithms and is specifically used for image recognition and tasks that involve the processing of pixel data._ 
 
 ## ***Setup*** 
-_Open Pycharm terminal and run  `pip install -r requirements.txt` and `python xxxx.py`_
+- 1. _Download dataset and put it in the directory_
 
+- 2. _Open Pycharm terminal and run  `pip install -r requirements.txt`_
+
+## ***Train the model***
+_Run `python TrainEmotionDetection.py` and `emotion_model.json emotion_model.h5` will be gernerated after training._
+
+## ***Test the model***
+_Run `python TestEmotionDetection.py`_
 
 ## ***Visualization***
 
